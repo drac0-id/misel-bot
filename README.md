@@ -1,5 +1,4 @@
-# misel-bot
-
+# misel-bot - Interactive Telegram Bot Crypto Price Checker
 
 
 
