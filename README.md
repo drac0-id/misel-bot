@@ -21,14 +21,14 @@ Usage :
 
 
 
-/misel_info_sell
+/misel_info_sell [input]
 
 
 ![image](https://user-images.githubusercontent.com/29269177/155547460-eac601cf-7923-4e46-b2d5-34e8ec1cf68a.png)
 
 
 
-/misel_info_buy
+/misel_info_buy [input]
 
 ![image](https://user-images.githubusercontent.com/29269177/155547515-977667df-1509-4aa5-9b0f-a66f2fbd6508.png)
 
