@@ -21,10 +21,25 @@ Usage :
 
 
 
+/misel_info_sell
+
+
+![image](https://user-images.githubusercontent.com/29269177/155547460-eac601cf-7923-4e46-b2d5-34e8ec1cf68a.png)
+
+
+
+/misel_info_buy
+
+![image](https://user-images.githubusercontent.com/29269177/155547515-977667df-1509-4aa5-9b0f-a66f2fbd6508.png)
+
+
+
+
 /help
 
 
-![image](https://user-images.githubusercontent.com/29269177/155362619-3e72804e-59b1-4cfa-a927-8cbb2bb11f3e.png)
+![image](https://user-images.githubusercontent.com/29269177/155547576-7313da4b-14db-4eec-a379-6cf05845ebf8.png)
+
 
 
 
